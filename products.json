@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "product1",
+      "name": "Awesome Product 1",
+      "price": "3600",
+      "priceAfterDiscount": "1440",
+      "imageName": "product1",
+      "reviews" : 2850
+    },
+    {
+      "id": "product2",
+      "name": "Smart Product 2",
+      "price": "2200",
+      "priceAfterDiscount": "880",
+      "imageName": "product2",
+      "reviews" : 1200
+    },
+    {
+      "id": "product3",
+      "name": "Latest Product 3",
+      "price": "2060",
+      "priceAfterDiscount": "824",
+      "imageName": "product3",
+      "reviews" : 820
+    },
+    {
+      "id": "product4",
+      "name": "Smart Product 4",
+      "price": "32,000",
+      "priceAfterDiscount": "12,800",
+      "imageName": "product4",
+      "reviews" : 680
+    },
+    {
+      "id": "product5",
+      "name": "Cool Product 5",
+      "price": "1850",
+      "priceAfterDiscount": "740",
+      "imageName": "product5",
+      "reviews" : 1501
+    },
+    {
+      "id": "product6",
+      "name": "Expensive Product 6",
+      "price": "1860",
+      "priceAfterDiscount": "744",
+      "imageName": "product6",
+      "reviews" : 1498
+    }
+  ]
+}
